@@ -1,0 +1,38 @@
+html {
+    font-family: 'Open Sans';
+}
+body{
+    padding: 4em 1em;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.5;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 800px;
+    text-align: center;
+}
+h1{
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 2mm;
+}
+img{
+    border-radius: 10px;
+    float: right;
+}
+a{
+    text-decoration: none;
+}
+
+.mono-font{
+    font-family: 'Roboto Mono', monospace;
+}
+.copyright{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
