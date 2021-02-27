@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    font-family: Roboto, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
+    color: #FCFFDB;
+}
+body .content {
+    padding-left: 50px;
+    height: 650px;
+    width: 715px;
+}
+body .content h1 {
+    font-size: 90px;
+    padding: 0px;
+    white-space: nowrap;
+}
+body .content img {
+    height: 250px;
+    width: 250px;
+    border-radius: 25px;
+    float: right;
+}
+body .content p{
+    font-size: 18px;
+}
+body .content a {
+    color: orange;
+    text-decoration: none;
+}
+body .content a:hover{
+    color: #37FDFC;
+    text-decoration: underline;
+}
